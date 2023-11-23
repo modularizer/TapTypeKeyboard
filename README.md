@@ -5,7 +5,7 @@ Built on top of [HelloWorldKeyboard](https://github.com/modularizer/helloworldke
 is a bare-bones keyboard with QWERTY layout and minimalist functionality, meant as a starting point for
 first-time Android developers interested in exploring custom keyboard development.
 
-<img src="./images/basic.gif" height="300"/>
+<img src="./images/basic.png" height="300"/>
 
 ## Getting Started
 
