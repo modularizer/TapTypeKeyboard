@@ -1,4 +1,4 @@
-package com.example.basickeyboard
+package com.example.taptypekeyboard
 
 import org.junit.Test
 

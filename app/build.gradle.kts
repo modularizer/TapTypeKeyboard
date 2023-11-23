@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.basickeyboard"
+    namespace = "com.example.taptypekeyboard"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.basickeyboard"
+        applicationId = "com.example.taptypekeyboard"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
