@@ -190,6 +190,8 @@ class KeyboardService : InputMethodService() {
                     key.background = iconDrawable
                 }else {
                     key.text = keyLabel
+
+                    key.setBackgroundResource(R.drawable.rounded_corners)
                 }
                 // Set the text size of the button
                 key.setTextSize(TypedValue.COMPLEX_UNIT_SP, 20f) // 18sp font size, change as needed
